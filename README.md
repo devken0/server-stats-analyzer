@@ -1,5 +1,7 @@
 # Server Performance Stats Analyzer
 
+[Add screenshots of program here]:#
+
 A script that can analyze basic server performance stats. It can be used on any Linux server and it should give you the following stats:
 
 - Total CPU usage
